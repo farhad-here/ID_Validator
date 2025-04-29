@@ -1,6 +1,5 @@
 import streamlit as st
-
-
+#Farhad_Ghaherdoost
 #OOP for checking ID
 class CheckId:
        def __init__(self,vorodi):
